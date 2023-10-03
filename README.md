@@ -1,5 +1,6 @@
-<h1 align="center">Hi 🙌, I'm Christoffer Bak Åndahl</h1>
+![MasterHead](https://cdn.discordapp.com/attachments/1021749336410959922/1158801037306626222/yIW31wZ.png?ex=651d9110&is=651c3f90&hm=3e01d0a67d33608d67f1e284272f8be2dbbe0b8082d352d6b94a255cbb630f70&)
 <h3 align="center">A passionate student at AAU CPH, studying Cyber- and computer technology</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=expermentus&label=Profile%20views&color=0e75b6&style=flat" alt="expermentus" /> </p>
 
